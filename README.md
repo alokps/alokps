@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alokps
-- 👀 I’m interested in Smart Contracts, Ethereum, Solana.
-- 🌱 I’m currently learning Solidity, Smart Contracts, Vyper
-- 💞️ I’m looking to collaborate on dApps
+- 👋 Hi, I’m a Developer with 15 years of experience in Development of Software in areas of Automotive, Consumer Electronics Devices (Android). 
+- 👀 I’m interested in Cloud Computing, Go, Python.
+- 🌱 I’m currently learning Go, AWS
+- 💞️ I’m looking to collaborate on Cloud based Go Lang and Python Projects. 
 - 📫 reach me at androiddev.401@gmail.com
 
 <!---
